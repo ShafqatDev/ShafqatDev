@@ -27,8 +27,8 @@ I'm an Android developer with a passion for building modern, beautiful, and effi
 - [Instagram](https://www.instagram.com/ig.fessneak/) 
 - [Email](shafqatkb109@gmail.com)
 
-## 😄 Pronouns:
-- He/Him
+## 😄 About Me:
+- I'm a male Android developer who started coding by exploring how Android apps work. My curiosity turned into a passion, and now I'm dedicated to crafting high-quality mobile experiences.
 
 ## ⚡ Fun fact:
 - I'm a self-taught developer who started coding by exploring how Android apps work. My curiosity turned into a passion, and now I'm dedicated to crafting high-quality mobile experiences.
