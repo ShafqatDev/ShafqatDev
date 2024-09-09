@@ -23,9 +23,9 @@ I'm an Android developer with a passion for building modern, beautiful, and effi
 - Any projects where I can contribute to creating beautiful and functional user interfaces
 
 ## 📫 How to reach me...
-- [LinkedIn](https://www.linkedin.com/in/shafqatdev) (add your LinkedIn profile link here)
-- [Twitter](https://twitter.com/shafqatdev) (add your Twitter handle here)
-- [Email](mailto:shafqatdev@example.com) (replace with your email)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-shafqat-88bb832a6/)
+- [Instagram](https://www.instagram.com/ig.fessneak/) 
+- [Email](shafqatkb109@gmail.com)
 
 ## 😄 Pronouns:
 - He/Him
