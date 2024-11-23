@@ -24,7 +24,6 @@ I'm an Android developer with a passion for building modern, beautiful, and effi
 
 ## 📫 How to reach me...
 - [LinkedIn](https://www.linkedin.com/in/muhammad-shafqat-88bb832a6/)
-- [Instagram](https://www.instagram.com/ig.fessneak/) 
 - [Email](shafqatkb109@gmail.com)
 
 ## 😄 About Me:
