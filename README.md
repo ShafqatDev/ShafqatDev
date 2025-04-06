@@ -23,7 +23,7 @@ I'm an Android developer with a passion for building modern, beautiful, and effi
 - Any projects where I can contribute to creating beautiful and functional user interfaces
 
 ## 📫 How to reach me...
-- [LinkedIn](https://www.linkedin.com/in/muhammad-shafqat-88bb832a6/)
+- [LinkedIn](https://www.linkedin.com/in/)
 - [Email](shafqatkb109@gmail.com)
 
 ## 😄 About Me:
